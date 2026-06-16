@@ -1,55 +1,113 @@
 # Mohamed N. Kadi
 
-Backend-focused software engineer building systems where product workflows, data integrity, and operational reliability meet.
+### Backend Software Engineer
 
-I work mostly with Java, Spring Boot, TypeScript, React, Angular, PostgreSQL, and system design patterns for role-based workflows, audit trails, reconciliation logic, and decision-support systems.
+> Turning ambiguous workflows into reliable software systems.
 
-## Current Focus
+Backend-focused software engineer building production-style applications in finance, logistics, healthcare, and workflow automation.
 
-- Designing backend systems around explicit domain workflows, not only database tables.
-- Building explainable tools for finance, logistics, healthcare, COD operations, and operational risk.
-- Strengthening full-stack delivery with Spring Boot, Angular, React, PostgreSQL, Docker, CI, and production-style deployment paths.
-- Writing and documenting architecture decisions so projects are understandable beyond the code.
+🌐 **Portfolio:** https://www.mkadi.dev
+💼 **LinkedIn:** https://linkedin.com/in/mohamednkadi
+📫 **Open to Backend Engineering Opportunities**
 
-## Featured Work
+---
 
-### Medical Case Tracker
+## Core Technologies
 
-Clinic workflow platform with Spring Boot and Angular, covering JWT authentication, RBAC, route guards, patient records, appointments, medical cases, verified patient portal linking, audit events, Flyway migrations, backups, localization, CI, and tests.
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-green?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+
+---
+
+## What I Build
+
+I enjoy designing software systems where business workflows are explicit, traceable, and maintainable.
+
+My projects focus on:
+
+* Backend architecture
+* Workflow-driven applications
+* Role-based access control (RBAC)
+* Data integrity and auditability
+* Financial reconciliation systems
+* Logistics and operational platforms
+* System design and domain modeling
+
+---
+
+## Featured Projects
 
 ### InvoiceMix
 
-Invoice reconciliation tool that uses bounded subset search, pruning, filters, result caps, Excel upload, saved scenarios, and CSV export to help finance users find invoice groups matching a target payment amount.
+Financial reconciliation platform that finds invoice combinations matching a target payment amount.
+
+**Highlights**
+
+* Bounded subset-search algorithm
+* Excel / CSV imports
+* Scenario management
+* Export capabilities
+* Spring Boot + React architecture
+
+---
+
+### Medical Case Tracker
+
+Healthcare workflow platform built with Spring Boot and Angular.
+
+**Highlights**
+
+* JWT Authentication
+* RBAC authorization
+* Patient portal linking
+* Audit trail system
+* Flyway migrations
+* CI/CD workflows
+
+---
 
 ### Wasilio
 
-COD operations and risk platform direction for Moroccan ecommerce merchants, focused on confirmation workflows, courier handoff, failed delivery tracking, audit trails, and explainable risk signals.
+COD operations platform designed for Moroccan ecommerce merchants.
 
-### The Systems Notebook
+**Highlights**
 
-Portfolio and technical notebook for architecture case studies, algorithmic demos, backend debugging labs, and writing about production-oriented engineering.
+* Delivery confirmation workflows
+* Courier handoff tracking
+* Failed delivery analysis
+* Operational dashboards
+* Risk-oriented workflow design
 
-## Engineering Interests
+---
 
-- Backend architecture
-- Domain modeling
-- REST API design
-- Spring Security and RBAC
-- Workflow state machines
-- Auditability and data integrity
-- PostgreSQL and relational modeling
-- Applied algorithms for product workflows
-- Operational dashboards and incident reasoning
+## Current Focus
 
-## Tech Stack
+* Building portfolio-grade backend systems
+* Distributed architectures and event-driven design
+* Finance and operational technology platforms
+* System design case studies
+* Production-ready engineering practices
 
-**Backend:** Java, Spring Boot, Spring Security, REST APIs, JWT, JPA, Flyway  
-**Frontend:** TypeScript, React, Next.js, Angular  
-**Data:** PostgreSQL, SQL, relational modeling, migrations  
-**Tools:** Docker, GitHub Actions, Git, Postman, Swagger/OpenAPI, Render, Netlify, Cloudflare Pages  
+---
 
-## Links
+## Education
 
-- Portfolio: https://www.mkadi.dev
-- LinkedIn: https://linkedin.com/in/mohamednkadi
-- GitHub: https://github.com/mohamed-kadi
+**B.Sc. Computer Science**
+York College (CUNY)
+
+**A.S. Computer Science**
+LaGuardia Community College
+
+---
+
+## Connect
+
+🌐 Portfolio: https://www.mkadi.dev
+
+💼 LinkedIn: https://linkedin.com/in/mohamednkadi
+
+📧 GitHub: https://github.com/mohamed-kadi
