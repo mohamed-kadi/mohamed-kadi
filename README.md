@@ -51,6 +51,37 @@ My projects focus on:
 
 Finance workflow studio for matching invoice combinations to a target payment amount.
 
+## Architecture
+
+```text
+                 ┌─────────────────┐
+                 │ Excel / CSV File│
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │ React Frontend  │
+                 │  (Vite + TS)    │
+                 └────────┬────────┘
+                          │ REST API
+                          ▼
+                 ┌─────────────────┐
+                 │ Spring Boot API │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │ Combination     │
+                 │ Search Engine   │
+                 └────────┬────────┘
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+      Target Match   Saved Scenarios   CSV Export
+
+```
+
+
 **Tech:** Java 17 • Spring Boot 3.4 • React 19 • TypeScript • Vite • Docker
 
 **Live Demo:** [invoice-mix.netlify.app](https://invoice-mix.netlify.app)
