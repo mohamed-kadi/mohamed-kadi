@@ -29,19 +29,11 @@ Backend-focused software engineer building production-style applications in fina
 
 ---
 
-## What I Build
+## About
 
-I enjoy designing software systems where business workflows are explicit, traceable, and maintainable.
+Backend Software Engineer focused on Java, Spring Boot, PostgreSQL, and workflow-driven systems.
 
-My projects focus on:
-
-* Backend architecture
-* Workflow-driven applications
-* Role-based access control (RBAC)
-* Data integrity and auditability
-* Financial reconciliation systems
-* Logistics and operational platforms
-* System design and domain modeling
+I build software that transforms complex business processes into secure, traceable, and maintainable applications across finance, healthcare, and logistics.
 
 ---
 
@@ -51,89 +43,27 @@ My projects focus on:
 
 Finance workflow studio for matching invoice combinations to a target payment amount.
 
-## Architecture
-
-```text
-                 ┌─────────────────┐
-                 │ Excel / CSV File│
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ React Frontend  │
-                 │  (Vite + TS)    │
-                 └────────┬────────┘
-                          │ REST API
-                          ▼
-                 ┌─────────────────┐
-                 │ Spring Boot API │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Combination     │
-                 │ Search Engine   │
-                 └────────┬────────┘
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-      Target Match   Saved Scenarios   CSV Export
-
-```
-
-
-**Tech:** Java 17 • Spring Boot 3.4 • React 19 • TypeScript • Vite • Docker
+**Tech:** Java • Spring Boot • React • PostgreSQL
 
 **Live Demo:** [invoice-mix.netlify.app](https://invoice-mix.netlify.app)
 
 ---
 
-### Medical Case Tracker
+### 🏥 [Medical Case Tracker](https://github.com/mohamed-kadi/medical-case-tracker)
 
-Healthcare workflow platform built with Spring Boot and Angular.
+Healthcare workflow platform focused on secure patient management, RBAC, auditability, and operational transparency.
 
-**Highlights**
-
-* JWT Authentication
-* RBAC authorization
-* Patient portal linking
-* Audit trail system
-* Flyway migrations
-* CI/CD workflows
+**Tech:** Java • Spring Boot • Angular • PostgreSQL
 
 ---
 
-### Wasilio
+### 🚚 Wasilio
 
-COD operations platform designed for Moroccan ecommerce merchants.
+COD operations platform helping Moroccan ecommerce merchants reduce failed deliveries and improve operational visibility.
 
-**Highlights**
+**Tech:** Java • Spring Boot • React • PostgreSQL
 
-* Delivery confirmation workflows
-* Courier handoff tracking
-* Failed delivery analysis
-* Operational dashboards
-* Risk-oriented workflow design
-
----
-
-## Current Focus
-
-* Building portfolio-grade backend systems
-* Distributed architectures and event-driven design
-* Finance and operational technology platforms
-* System design case studies
-* Production-ready engineering practices
-
----
-
-## Education
-
-**B.Sc. Computer Science**
-York College (CUNY)
-
-**A.S. Computer Science**
-LaGuardia Community College
+🌐 Website: https://www.wasilio.ma
 
 ---
 
@@ -142,5 +72,3 @@ LaGuardia Community College
 🌐 Portfolio: https://www.mkadi.dev
 
 💼 LinkedIn: https://linkedin.com/in/mohamednkadi
-
-📧 GitHub: https://github.com/mohamed-kadi
