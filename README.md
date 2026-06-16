@@ -47,17 +47,13 @@ My projects focus on:
 
 ## Featured Projects
 
-### InvoiceMix
+### 🚀 [InvoiceMix](https://github.com/mohamed-kadi/invoicemix)
 
-Financial reconciliation platform that finds invoice combinations matching a target payment amount.
+Finance workflow studio for matching invoice combinations to a target payment amount.
 
-**Highlights**
+**Tech:** Java 17 • Spring Boot 3.4 • React 19 • TypeScript • Vite • Docker
 
-* Bounded subset-search algorithm
-* Excel / CSV imports
-* Scenario management
-* Export capabilities
-* Spring Boot + React architecture
+**Live Demo:** [invoice-mix.netlify.app](https://invoice-mix.netlify.app)
 
 ---
 
