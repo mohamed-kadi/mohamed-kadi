@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="mkadi_banner_real_qr.png" alt="Mohamed N Kadi Banner" />
+</p>
+
 # Mohamed N. Kadi
 
 ### Backend Software Engineer
@@ -6,8 +10,10 @@
 
 Backend-focused software engineer building production-style applications in finance, logistics, healthcare, and workflow automation.
 
-🌐 **Portfolio:** https://www.mkadi.dev
-💼 **LinkedIn:** https://linkedin.com/in/mohamednkadi
+🌐 **Portfolio:** [www.mkadi.dev](https://www.mkadi.dev)
+
+💼 **LinkedIn:** [linkedin.com/in/mohamednkadi](https://linkedin.com/in/mohamednkadi)
+
 📫 **Open to Backend Engineering Opportunities**
 
 ---
